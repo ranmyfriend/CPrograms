@@ -10,6 +10,7 @@
 		072E2A3221AE721500DA782A /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 072E2A3121AE721500DA782A /* main.c */; };
 		07C5DABF21BB115A00D974B0 /* FloydTriangle.c in Sources */ = {isa = PBXBuildFile; fileRef = 07C5DABE21BB115A00D974B0 /* FloydTriangle.c */; };
 		07C5DAC221BB125700D974B0 /* ReverseString.c in Sources */ = {isa = PBXBuildFile; fileRef = 07C5DAC121BB125700D974B0 /* ReverseString.c */; };
+		07C5DAC521BB1C5A00D974B0 /* SumOfNnumbers.c in Sources */ = {isa = PBXBuildFile; fileRef = 07C5DAC421BB1C5A00D974B0 /* SumOfNnumbers.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,8 @@
 		07C5DABE21BB115A00D974B0 /* FloydTriangle.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = FloydTriangle.c; sourceTree = "<group>"; };
 		07C5DAC021BB125700D974B0 /* ReverseString.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReverseString.h; sourceTree = "<group>"; };
 		07C5DAC121BB125700D974B0 /* ReverseString.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ReverseString.c; sourceTree = "<group>"; };
+		07C5DAC321BB1C5A00D974B0 /* SumOfNnumbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SumOfNnumbers.h; sourceTree = "<group>"; };
+		07C5DAC421BB1C5A00D974B0 /* SumOfNnumbers.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = SumOfNnumbers.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +69,8 @@
 				072E2A3121AE721500DA782A /* main.c */,
 				07C5DAC021BB125700D974B0 /* ReverseString.h */,
 				07C5DAC121BB125700D974B0 /* ReverseString.c */,
+				07C5DAC321BB1C5A00D974B0 /* SumOfNnumbers.h */,
+				07C5DAC421BB1C5A00D974B0 /* SumOfNnumbers.c */,
 				07C5DABD21BB115A00D974B0 /* FloydTriangle.h */,
 				07C5DABE21BB115A00D974B0 /* FloydTriangle.c */,
 			);
@@ -128,6 +133,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07C5DAC521BB1C5A00D974B0 /* SumOfNnumbers.c in Sources */,
 				07C5DABF21BB115A00D974B0 /* FloydTriangle.c in Sources */,
 				07C5DAC221BB125700D974B0 /* ReverseString.c in Sources */,
 				072E2A3221AE721500DA782A /* main.c in Sources */,
